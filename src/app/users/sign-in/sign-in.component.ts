@@ -9,7 +9,7 @@ import { Router } from '@angular/router';
   styleUrls: ['./sign-in.component.css']
 })
 export class SignInComponent {
-
+  dontShow=false;
   createForm = new FormGroup({
     "username": new FormControl(),
     "password" : new FormControl()

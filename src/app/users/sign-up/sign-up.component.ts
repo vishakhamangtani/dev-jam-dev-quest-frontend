@@ -8,6 +8,7 @@ import { UsersService } from '../users.service';
   styleUrls: ['./sign-up.component.css'],
 })
 export class SignUpComponent {
+  dontShow = false;
   createForm = new FormGroup({
     fullName: new FormControl(),
     username: new FormControl(),
