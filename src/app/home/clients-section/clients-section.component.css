@@ -22,23 +22,23 @@
 .menu .thumb h4 {
   margin-bottom: 0px;
   font-size: 20px;
-  color: #2a2a2a;
+  color: #00b4d8;
 }
 
 .menu .thumb span.date {
   display: inline-block;
   margin-top: 0px;
-  color: #afafaf;
+  color: #00b4d8;
 }
 
 .menu .thumb span.category,
 .menu .thumb span.rating {
   font-weight: 700;
-  color: #afafaf;
+  color: #00b4d8;
 }
 
 .menu .thumb i {
-  color: #afafaf;
+  color: #00b4d8;
 }
 
 .the-clients .naccs .menu div {
@@ -57,7 +57,7 @@
 .the-clients .naccs .menu div.active i,
 .the-clients .naccs .menu div.active span.rating,
 .the-clients .naccs .menu div.active .thumb {
-  color: #4b8ef1;
+  color: #00b4d8;
 }
 
 .the-clients ul.nacc {
@@ -134,6 +134,6 @@
 }
 
 .the-clients .nacc .thumb .down-content .right-content span {
-  color: #2a2a2a;
+  color: #00b4d8;
 }
 

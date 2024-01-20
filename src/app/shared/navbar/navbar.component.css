@@ -127,7 +127,7 @@ p {
   font-size: 15px;
   line-height: 30px;
   font-weight: 300;
-  color: #afafaf;
+  color: #00b4d8;
 }
 
 img {
@@ -147,12 +147,12 @@ body {
 }
 
 ::selection {
-  background: #4b8ef1;
+  background: #00b4d8;
   color: #fff !important;
 }
 
 ::-moz-selection {
-  background: #4b8ef1;
+  background: #00b4d8;
   color: #fff !important;
 }
 
@@ -178,7 +178,7 @@ body {
 }
 
 .section-heading h4 {
-  color: #2a2a2a;
+  color: #00b4d8;
   font-size: 30px;
   font-weight: 700;
   text-transform: capitalize;
@@ -187,7 +187,7 @@ body {
 
 .section-heading h4 em {
   font-style: normal;
-  color: #4b8ef1;
+  color: #00b4d8;
 }
 
 .section-heading img {
@@ -223,7 +223,7 @@ body {
 }
 
 .white-button a:hover {
-  background-color: #4b8ef1;
+  background-color: #00b4d8;
   color: #fff !important;
 }
 
@@ -258,13 +258,13 @@ body {
 .gradient-button a:hover {
   color: #fff !important;
   background: rgb(19,175,240);
-  background: linear-gradient(105deg, rgba(91,104,235,1) 0%, rgba(40,225,253,1) 100%);
+  background: linear-gradient(105deg, #00b4d8 0%, #00b4d8 100%);
 }
 
 .border-button a {
   display: inline-block !important;
   padding: 10px 20px !important;
-  color: #4b8ef1 !important;
+  color: #00b4d8 !important;
   border: 1px solid #4b8ef1;
   text-transform: capitalize;
   font-size: 15px;
@@ -277,7 +277,7 @@ body {
 }
 
 .border-button a:hover {
-  background-color: #4b8ef1;
+  background-color: #00b4d8;
   color: #fff !important;
 }
 
