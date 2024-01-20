@@ -1,6 +1,5 @@
 <app-navbar *ngIf="isLoggedOut; else loginNavbar"></app-navbar>
 <ng-template #loginNavbar><app-login-navbar></app-login-navbar> </ng-template>
 <router-outlet></router-outlet>
-<app-footer *ngIf="isLoggedOut; else loginFooter"><app-login-footer></app-login-footer
-></app-footer>
+<app-footer *ngIf="isLoggedOut; else loginFooter"></app-footer>
 <ng-template #loginFooter><app-login-footer></app-login-footer></ng-template>
